@@ -8,6 +8,9 @@ namespace OpenClose
             HoursWorked = hoursWorked;
         }
 
+        // public string Fullname { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        // public int HoursWorked { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
         public override decimal CalculateSalaryMonthly()
         {
             decimal hourValue = 20000M;
