@@ -42,9 +42,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00c96efe44a81a8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clase 7 principio de principio abierto-cerrado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "638fde80f58a954c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compilador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cb220ae1310319b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05ea09ad8eb7c826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Common Language Specification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c1b14ad5ba2f5be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clase 9 Principio de Sustitucion de Liskov.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cae901be7beebf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clase 11 principio de segregacion de interfaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06b04a195194a6e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clase 13 principio de la inversion de dependencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -110,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clase 6 Aplicando el principio de responsabilidad única.md",
+                "file": "clase 13 principio de la inversion de dependencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clase 6 Aplicando el principio de responsabilidad única.md",
+                "file": "clase 13 principio de la inversion de dependencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clase 6 Aplicando el principio de responsabilidad única.md"
+                "file": "clase 13 principio de la inversion de dependencia.md"
               }
             }
           }
@@ -171,14 +255,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ab81fb39a2c66253",
+  "active": "06b04a195194a6e8",
   "lastOpenFiles": [
-    "Pasted image 20230307195155.png",
+    "clase 7 principio de principio abierto-cerrado.md",
+    "clase 9 Principio de Sustitucion de Liskov.md",
+    "clase 3 y 4.md",
+    "clase 11 principio de segregacion de interfaces.md",
+    "clase 13 principio de la inversion de dependencia.md",
     "clase 5 Principio de Responsabilidad Unica.md",
     "clase 6 Aplicando el principio de responsabilidad única.md",
-    "Pasted image 20230307195020.png",
-    "Pasted image 20230307194947.png",
-    "Pasted image 20230307194741.png",
-    "clase 3 y 4.md"
+    "Pasted image 20230308124832.png",
+    "Pasted image 20230308124748.png",
+    "Pasted image 20230308124706.png",
+    "Pasted image 20230308124449.png",
+    "Pasted image 20230308120242.png",
+    "Pasted image 20230308120235.png",
+    "Untitled.md",
+    "Pasted image 20230308111106.png",
+    "Pasted image 20230308105019.png",
+    "Pasted image 20230308104725.png",
+    "Common Language Specification.md",
+    "Pasted image 20230308103644.png",
+    "plc.md",
+    "Compilador.md"
   ]
 }
